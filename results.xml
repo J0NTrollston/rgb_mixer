@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1719280507" />
+    <testcase name="test_all" classname="test.test_rgb_mixer" file="/home/br103426/Desktop/RGB_Project/rgb_mixer/test/test_rgb_mixer.py" lineno="32" time="3.9290881156921387" sim_time_ns="153390001.0" ratio_time="39039593.026021816">
+      <failure message="Test failed with RANDOM_SEED=1719280507" />
+    </testcase>
+  </testsuite>
+</testsuites>
